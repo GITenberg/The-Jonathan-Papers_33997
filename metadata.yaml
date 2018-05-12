@@ -1,0 +1,38 @@
+_repo: The-Jonathan-Papers_33997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Elisabeth Woodbridge
+    aliases:
+    - Woodbridge, Elisabeth
+    - Morris, Sarah Elisabeth Woodbridge
+    birthdate: 1870
+    deathdate: 1964
+    gutenberg_agent_id: '9105'
+    url: http://www.gutenberg.org/2009/agents/9105
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33997'
+  lccn: '12009940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Essays'
+- !lcc 'PS'
+- !lcsh 'Country life -- Connecticut'
+tableOfContents: 'Foreword: on taking one''s dessert first -- A placid runaway --
+  An unprogressive farm -- A desultory pilgrimage -- The yellow valley -- Larkspurs
+  and hollyhocks -- The farm Sunday -- The grooming of the farm -- "Escaped from old
+  gardens" -- The country road -- The lure of the berry -- In the rain -- As the bee
+  flies -- A dawn experiment -- In the wake of the partridge -- Beyond the realm of
+  weather -- Comfortable books -- In the firelight.'
+title: The Jonathan Papers
+url: http://www.gutenberg.org/ebooks/33997
